@@ -3,6 +3,7 @@
 ## 국내 오마카세 맛집 프로젝트
 
 | 맛집 리스트 링크: [Awesome Sushi](https://github.com/738/awesome-sushi)
+| 기획서 링크: [프로젝트 기획서](https://www.notion.so/sunnyson/f03aa31998914a398334c5a317854c67)
 
 ## 개요
 
