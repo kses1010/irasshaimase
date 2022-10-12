@@ -1,7 +1,8 @@
 import type { NextPage } from 'next';
+import { CommonLayout } from '~apps/@shared/layouts';
 
 const Home: NextPage = () => {
-  return <>Hello </>;
+  return <CommonLayout>Hello </CommonLayout>;
 };
 
 export default Home;
