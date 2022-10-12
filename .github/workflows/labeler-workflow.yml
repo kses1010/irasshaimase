@@ -1,0 +1,19 @@
+name: 'Pull Request Labeler'
+on:
+  - pull_request_target
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/labeler@main
+        name: 변경된 파일 기반으로 라벨 지정
+        with:
+          repo-token: '${{ secrets.GITHUB_TOKEN }}'
+
+      - uses: TimonVS/pr-labeler-action@v3
+        name: 브랜치 기반으로 라벨 지정
+        with:
+          configuration-path: .github/pr-branch-labeler.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
