@@ -1,0 +1,16 @@
+frontend:
+  - irasshaimase-frontend/*
+backend:
+  - irasshaimase-backend/*
+configuration:
+  - next.config.js
+  - package*.json
+  - '**/.*'
+  - '**/jest*.ts'
+  - '**/jest*.js'
+  - '**/tsconfig*.json'
+  - .*/**
+documentation:
+  - '**/*.md'
+dependencies:
+  - '**/yarn.lock'
