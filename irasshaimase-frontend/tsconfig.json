@@ -23,28 +23,34 @@
         "config/env"
       ],
       "~apis": [
-        "src/apis"
+        "apis"
       ],
       "~apis/*": [
-        "src/apis/*"
+        "apis/*"
+      ],
+      "~apps": [
+        "apps"
+      ],
+      "~apps/*": [
+        "apps/*"
       ],
       "~core": [
-        "src/core"
+        "core"
       ],
       "~core/*": [
-        "src/core/*"
+        "core/*"
       ],
       "~pages": [
-        "src/pages"
+        "pages"
       ],
       "~pages/*": [
-        "src/pages/*"
+        "pages/*"
       ],
       "~styles": [
-        "src/styles"
+        "styles"
       ],
       "~styles/*": [
-        "src/styles/*"
+        "styles/*"
       ]
     },
     "types": [
