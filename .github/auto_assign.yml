@@ -1,4 +1,0 @@
-# Set to author to set pr creator as assignee
-addAssignees: author
-
-addReviewers: false
