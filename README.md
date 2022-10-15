@@ -8,3 +8,10 @@
 ## 개요
 
 국내 스시 오마카세 맛집 리스트 및 자료를 활용한 맛집 프로젝트
+
+
+## 레포
+
+백엔드엔드 레포 [irasshaimase-backend](https://github.com/kses1010/irasshaimase)
+프론트엔드 레포 [irasshaimase-frontend](https://github.com/baekCode/irasshaimase)
+
