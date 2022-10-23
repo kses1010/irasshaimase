@@ -1,4 +1,4 @@
-package com.sunnyson.rasshaimasebackend
+package com.sunnyson.irasshaimasebackend
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

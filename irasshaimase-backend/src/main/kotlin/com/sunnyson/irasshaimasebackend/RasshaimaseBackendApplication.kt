@@ -1,4 +1,4 @@
-package com.sunnyson.rasshaimasebackend
+package com.sunnyson.irasshaimasebackend
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
